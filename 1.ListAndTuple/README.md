@@ -17,6 +17,7 @@ En el caso de Python, estas son las funciones más utilizadas para trabajar con 
 - **__contains__(elemento)**: Devuelve True si el elemento se encuentra en la lista.
 - **index(elemento)**: Devuelve el índice del elemento en la lista si existe, sino retorna un error.
 - **count(elemento)**: Devuelve la cantidad de veces que se repite el elemento en la lista.
+- **pop(índice)**: Elimina el elemento de la lista que se encuentra en la posición indicada por el índice y lo retorna.
 
 ## Lista anidada (Nested List)
 Una lista aniada es una lista que tiene como elementos a otras listas. Para acceder a los elementos de una lista anidada se utiliza el índice de la lista y el índice del elemento de la lista anidada. En el caso de Python se utiliza el nombre de la lista seguido de corchetes que contienen el índice de la lista anidada y el índice del elemento de la lista anidada. Ej. lista[índice_lista_anidada][índice_elemento_lista_anidada].
