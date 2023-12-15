@@ -1,4 +1,5 @@
 # Estructuras de Datos en Python
 
-## [Listas enlazadas](0.LinkedLists/)
-## [Listas y tuplas](1.ListAndTuple/)
+- [Listas enlazadas](0.LinkedLists/)
+- [Listas y tuplas](1.ListAndTuple/)
+- [Colas](2.Queue/)
